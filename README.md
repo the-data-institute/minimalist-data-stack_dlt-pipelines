@@ -2,6 +2,9 @@
 
 A data pipeline using [dlt (data load tool)](https://dlthub.com/) to extract data from the Moco API and load it to a filesystem destination.
 
+This repository goes hand in hand with our [Pipelines Perspective story](https://medium.com/@mkamysz/the-minimalists-data-stack-integration-pipelines-af3e00037aa7
+) on how to build a minimalist data stack.
+
 ## Overview
 
 This pipeline extracts data from the Moco time tracking and project management API, including:
